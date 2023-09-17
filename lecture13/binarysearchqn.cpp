@@ -48,6 +48,8 @@ int main(){
     if(firstOcc(arr,n,key)>=0){
         cout<<"first occurrence of key is at index "<<firstOcc(arr, n, key)<<endl;
         cout<<"first occurrence of key is at index "<<lastOcc(arr, n, key)<<endl;
+        pair<int, int> pair1(firstOcc(arr, n, key),lastOcc(arr, n, key));
+        cout<<pair1.first<<" "<<pair1.second;
     }
     else cout<<"not present";
 

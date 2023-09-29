@@ -39,7 +39,7 @@ int binarySoln(vector<int>& stalls, int k){
         maxi = max(maxi, stalls[i]);
     }
     int e=maxi;
-    int ans=0;
+    int ans=-1;
     int mid = s + (e-s)/2;
     while(s<=e){
         if(isPossible(stalls, k, mid)){

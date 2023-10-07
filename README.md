@@ -7,8 +7,6 @@ This repository contains a collection of Data Structures and Algorithms (DSA) pr
 - [Introduction](#introduction)
 - [Languages](#languages)
 - [Code Organization](#code-organization)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 

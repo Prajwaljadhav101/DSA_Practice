@@ -3,6 +3,8 @@
     "files.associations": {
         "*.ejs": "html",
         "ostream": "cpp",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "typeindex": "cpp",
+        "typeinfo": "cpp"
     }
 }

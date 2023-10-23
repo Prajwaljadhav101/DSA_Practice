@@ -19,7 +19,7 @@ Whether you are a beginner learning DSA for the first time or an experienced dev
 The code examples are provided in following programming language:
 - C++
 
-Feel free to explore the code in your preferred language.
+Feel free to explore the code.
 
 ## Code Organization
 
